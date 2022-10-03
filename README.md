@@ -1,1 +1,1 @@
-# Discord-Bot-s-Files
+1. COTW.png
